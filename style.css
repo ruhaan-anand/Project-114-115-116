@@ -1,0 +1,10 @@
+button{
+    font-size: 20px !important;
+    width: 350px;
+    font-weight: bold !important;
+}
+
+canvas{
+    border: 25px orangered solid !important;
+    border-radius: 10px;
+}
